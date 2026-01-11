@@ -14,3 +14,4 @@ Refer to images:
 - Main Picture: for a simple game screenshot
 - Display Setup: for bitmap display setup
 - Keyboard Setup: for reference. Used as is
+- AABB (Axis-Aligned Bounding Box): Some collision math. I would suggest you watch some videos instead
